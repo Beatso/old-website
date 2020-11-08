@@ -19,4 +19,21 @@ pygmentsCodefences = true
     description          = "I'm Beatso. I make Minecraft resource packs, amongst other stuff. This is my website." # Max 160 characters show in search results
     images               = ["cover_cropped.png"]  # Image that shows on Twitter cards and Open Graph links to the site
     title                = "Beatso"
+
+
+[[params.mainMenu]]
+    link = ""
+    text = "beatso."
+
+[[params.mainMenu]]
+    link = "/about"
+    text = "about."
+
+[[params.mainMenu]]
+    link = "/stuff-i-made"
+    text = "stuff i made."
+
+[[params.mainMenu]]
+    link = "https://discord.gg/bNcZjFe"
+    text = "discord."
 	
