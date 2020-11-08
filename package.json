@@ -1,0 +1,9 @@
+{
+	"name": "netlify-deps",
+	"version": "0.1.0",
+	"dependencies": {
+		"postcss": "^8.1.6",
+		"postcss-cli": "^2.0",
+		"autoprefixer": "^10.0.1"
+	}
+}
