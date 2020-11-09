@@ -3,7 +3,7 @@ languageCode = "en-gb"
 title = "beatso"
 defaultContentLanguage = "en"
 isMultilingual = false
-theme = "sam"
+theme = "theme"
 pygmentsStyle  = "monokai" # https://help.farbox.com/pygments.html
 pygmentsCodefences = true
 
