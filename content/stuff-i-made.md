@@ -34,6 +34,10 @@ Resource Pack Info  is a small wiki for bits of info that can be useful when cre
 [Website](https://rpinfo.beatso.tk/)
 
 
+## Simple Auto Clicker
+Simple Auto Clicker is a small program I made that has options to left clikc at different speeds for mob grinders, written in AHK. [PMC](https://www.planetminecraft.com/mod/simple-auto-clicker/)
+
+
 ## FingerMaps
 
 I am the website and bot developer for the FingerMaps team, a map making team that currently has two maps published. We aim to create unique and interesting maps using custom data packs, mechanics, resource packs and other stuff.
