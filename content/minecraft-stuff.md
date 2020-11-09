@@ -1,14 +1,10 @@
 ---
-title: "Stuff I Made"
-date: 2020-11-08T21:59:38Z
+title: "Minecraft Stuff"
 draft: false
 ---
 
-A collection of things I made. [Minecraft Stuff](#minecraft-stuff) [Other Stuff](#other-stuff)
+A collection of Minecraft things I made. [Other Stuff](/other-stuff)
 
-
-
-# Minecraft Stuff
 
 ## Little Improvements: Custom
 Little Improvements: Custom is an open-source resource pack picker that I coded from scratch. There is a team of three texture artists (Kemiu, Daggsy and myself) who make textures and resource packs for LIC.
@@ -48,32 +44,3 @@ I am the website and bot developer for the FingerMaps team, a map making team th
 
 I'm also part of the team at Vanilla Extract, which is another Minecraft resource pack picker. I made the discord bot, I help out with the website, and I am part of the RP Support team.
 [Website](https://sites.google.com/view/vanillaextract)
-
-
-
-# Other Stuff
-
-
-## TrumpTimer
-
-A simple timer to count down until President Trump leaves office. [Website](https://beatso.github.io/TrumpTimer/)
-
-
-## RedditSpyglass
-
-A small website to see how many points a reddit post has, even if it's hidden. [Website](https://beatso.github.io/RedditSpyglass/)
-
-
-## Translate Nonsense
-
-A Python program to translate text through many languages so it becomes nonsense. [GitHub](https://github.com/Beatso/TranslateNonsense)
-
-
-## Pinn
-
-A discord bot so anyone can pin messages, even if they don't have the manage messages permission. [top.gg](https://top.gg/bot/763842999573544981)
-
-
-## Custom Discord Bots
-
-I make a bunch of discord bots in discord.js. They're all on my [GitHub profile](https://github.com/Beatso?tab=repositories).

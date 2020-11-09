@@ -25,8 +25,12 @@ pygmentsCodefences = true
     text = "about."
 
 [[params.mainMenu]]
-    link = "/stuff-i-made"
-    text = "stuff i made."
+    link = "/minecraft-stuff"
+    text = "minecraft stuff."
+
+[[params.mainMenu]]
+    link = "/other-stuff"
+    text = "other stuff."
 
 [[params.mainMenu]]
     link = "https://discord.gg/bNcZjFe"
