@@ -20,11 +20,6 @@ pygmentsCodefences = true
     images               = ["cover_cropped.png"]  # Image that shows on Twitter cards and Open Graph links to the site
     title                = "Beatso"
 
-
-[[params.mainMenu]]
-    link = ""
-    text = "beatso."
-
 [[params.mainMenu]]
     link = "/about"
     text = "about."
