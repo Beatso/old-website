@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-gb"
-title = "Beatso"
+title = "beatso"
 defaultContentLanguage = "en"
 isMultilingual = false
 theme = "sam"

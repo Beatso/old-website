@@ -1,46 +1,46 @@
 ---
-title: "Minecraft Stuff"
+title: "minecraft stuff"
 draft: false
 ---
 
-A collection of Minecraft things I made. [Other Stuff](/other-stuff)
+a collection of minecraft things i made. [other stuff](/other-stuff)
 
 
-## Little Improvements: Custom
-Little Improvements: Custom is an open-source resource pack picker that I coded from scratch. There is a team of three texture artists (Kemiu, Daggsy and myself) who make textures and resource packs for LIC.
-[Website](https://www.littleimprovements-custom.tk/)
+## little improvements: custom
+little improvements: custom is an open-source resource pack picker that i coded from scratch. there is a team of three texture artists (kemiu, daggsy and myself) who make textures and resource packs for lic.
+[website](https://www.littleimprovements-custom.tk/)
 
 
-## Resource Packs
+## resource packs
 
-I make a bunch of tweaks resource packs, that aim to improve the vanilla game in small ways. These include:
+i make a bunch of tweaks resource packs, that aim to improve the vanilla game in small ways. these include:
 
-- [Little Improvements: Variated](https://www.planetminecraft.com/texture-pack/little-improvements-variated/), which adds alternate textures to many blocks; adding variety to the game, and avoiding grid patterns.
+- [little improvements: variated](https://www.planetminecraft.com/texture-pack/little-improvements-variated/), which adds alternate textures to many blocks; adding variety to the game, and avoiding grid patterns.
 
-- [Little Improvements: Redstone](https://www.planetminecraft.com/texture-pack/little-improvements-redstone/) which is a utility pack that adds small quality of life additions to redstone components.
+- [little improvements: redstone](https://www.planetminecraft.com/texture-pack/little-improvements-redstone/) which is a utility pack that adds small quality of life additions to redstone components.
 
-- [Connected Smooth Stone](https://www.planetminecraft.com/texture-pack/connected-smooth-stone-no-optifine/), which, uhh, makes smooth stone connected.
+- [connected smooth stone](https://www.planetminecraft.com/texture-pack/connected-smooth-stone-no-optifine/), which, uhh, makes smooth stone connected.
 
-All my resource packs can be found on my [Planet Minecraft profile](https://www.planetminecraft.com/member/beatso/).
-
-
-## Resource Pack Info
-
-Resource Pack Info  is a small wiki for bits of info that can be useful when creating a Minecraft resource pack. It's mostly stuff that I didn't find was immediately obvious when searching the web.
-[Website](https://rpinfo.beatso.tk/)
+all my resource packs can be found on my [planet minecraft profile](https://www.planetminecraft.com/member/beatso/).
 
 
-## Simple Auto Clicker
-Simple Auto Clicker is a small program I made that has options to left clikc at different speeds for mob grinders, written in AHK. [PMC](https://www.planetminecraft.com/mod/simple-auto-clicker/)
+## resource pack info
+
+resource pack info  is a small wiki for bits of info that can be useful when creating a minecraft resource pack. it's mostly stuff that i didn't find was immediately obvious when searching the web.
+[website](https://rpinfo.beatso.tk/)
 
 
-## FingerMaps
-
-I am the website and bot developer for the FingerMaps team, a map making team that currently has two maps published. We aim to create unique and interesting maps using custom data packs, mechanics, resource packs and other stuff.
-[Website](https://fingermaps.net/)  
+## simple auto clicker
+simple auto clicker is a small program i made that has options to left clikc at different speeds for mob grinders, written in ahk. [pmc](https://www.planetminecraft.com/mod/simple-auto-clicker/)
 
 
-## Vanilla Extract
+## fingermaps
 
-I'm also part of the team at Vanilla Extract, which is another Minecraft resource pack picker. I made the discord bot, I help out with the website, and I am part of the RP Support team.
-[Website](https://sites.google.com/view/vanillaextract)
+i am the website and bot developer for the fingermaps team, a map making team that currently has two maps published. we aim to create unique and interesting maps using custom data packs, mechanics, resource packs and other stuff.
+[website](https://fingermaps.net/)  
+
+
+## vanilla extract
+
+i'm also part of the team at vanilla extract, which is another minecraft resource pack picker. i made the discord bot, i help out with the website, and i am part of the rp support team.
+[website](https://sites.google.com/view/vanillaextract)

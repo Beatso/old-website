@@ -1,32 +1,31 @@
 ---
-title: "Other Stuff"
-date: 2020-11-08T21:59:38Z
+title: "other stuff"
 draft: false
 ---
 
-I make pretty useless stuff. Don't take them too seriously. [Minecraft Stuff](/minecraft-stuff)
+i make pretty useless stuff. don't take them too seriously. [minecraft stuff](/minecraft-stuff)
 
 
-## TrumpTimer
+## trumptimer
 
-A simple timer to count down until President Trump leaves office. [Website](https://beatso.github.io/TrumpTimer/)
-
-
-## RedditSpyglass
-
-A small website to see how many points a reddit post has, even if it's hidden. [Website](https://beatso.github.io/RedditSpyglass/)
+a simple timer to count down until president trump leaves office. [website](https://beatso.github.io/TrumpTimer/)
 
 
-## Translate Nonsense
+## redditspyglass
 
-A Python program to translate text through many languages so it becomes nonsense. [GitHub](https://github.com/Beatso/TranslateNonsense)
-
-
-## Pinn
-
-A discord bot so anyone can pin messages, even if they don't have the manage messages permission. [top.gg](https://top.gg/bot/763842999573544981)
+a small website to see how many points a reddit post has, even if it's hidden. [website](https://beatso.github.io/RedditSpyglass/)
 
 
-## Custom Discord Bots
+## translate nonsense
 
-I make a bunch of discord bots in discord.js. They're all on my [GitHub profile](https://github.com/Beatso?tab=repositories).
+a python program to translate text through many languages so it becomes nonsense. [github](https://github.com/Beatso/TranslateNonsense)
+
+
+## pinn
+
+a discord bot so anyone can pin messages, even if they don't have the manage messages permission. [top.gg](https://top.gg/bot/763842999573544981)
+
+
+## custom discord bots
+
+i make a bunch of discord bots in discord.js. they're all on my [github profile](https://github.com/Beatso?tab=repositories).
