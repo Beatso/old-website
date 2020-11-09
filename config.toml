@@ -12,7 +12,7 @@ pygmentsCodefences = true
     dateform             = "Mon Jan 02, 2006"
     dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
     favicon              = "face.ico"
-    homepage             = "home." # What to call the home page link
+    homepage             = "home" # What to call the home page link
     footerText           = "Beatso"
 
 # Metadata for Open Graph and Twitter
@@ -23,16 +23,20 @@ pygmentsCodefences = true
 [[params.mainMenu]]
     link = "/about"
     text = "about."
+    bottomText = "about"
 
 [[params.mainMenu]]
     link = "/minecraft-stuff"
     text = "minecraft stuff."
+    bottomText = "minecraft stuff"
 
 [[params.mainMenu]]
     link = "/other-stuff"
     text = "other stuff."
+    bottomText = "other stuff"
 
 [[params.mainMenu]]
     link = "https://discord.gg/bNcZjFe"
     text = "discord."
+    bottomText = "discord"
 	
