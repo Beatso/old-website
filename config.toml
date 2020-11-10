@@ -13,7 +13,7 @@ pygmentsCodefences = true
     dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
     favicon              = "face.ico"
     homepage             = "home" # What to call the home page link
-    footerText           = "Beatso"
+    footerText           = "beatso"
 
 # Metadata for Open Graph and Twitter
     description          = "I'm Beatso. I make Minecraft resource packs, amongst other stuff. This is my website." # Max 160 characters show in search results
