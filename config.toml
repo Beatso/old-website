@@ -36,7 +36,7 @@ pygmentsCodefences = true
     bottomText = "other stuff"
 
 [[params.mainMenu]]
-    link = "https://discord.gg/bNcZjFe"
+    link = "/discord"
     text = "discord."
     bottomText = "discord"
 	
