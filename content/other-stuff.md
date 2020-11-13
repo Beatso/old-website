@@ -18,7 +18,9 @@ a small website to see how many points a reddit post has, even if it's hidden. [
 
 ## translate nonsense
 
-a python program to translate text through many languages so it becomes nonsense. [github](https://github.com/Beatso/TranslateNonsense)
+an npm package to translate text through many languages so it becomes nonsense. [npm](https://www.npmjs.com/package/translate-nonsense)
+
+also made in python. [github](https://github.com/Beatso/TranslateNonsensePY)
 
 
 ## pinn
