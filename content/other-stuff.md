@@ -8,7 +8,7 @@ i make pretty useless stuff. don't take them too seriously. [minecraft stuff](/m
 
 ## trumptimer
 
-a simple timer to count down until president trump leaves office. [website](https://beatso.github.io/TrumpTimer/)
+a simple timer to count down until president trump leaves office. [website](/project/trumptimer)
 
 
 ## redditspyglass
