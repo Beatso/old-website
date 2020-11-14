@@ -1,14 +1,3 @@
-body {
-	font-family: "Segoe UI", Helvetica, Arial, sans-serif,
-	"Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-	font-size: 2vh;
-	padding: 1vw;
-}
-
-footer {
-	font-size: 1.5vh;
-}
-
 #urlInput {
 	width: 90%;
 }
