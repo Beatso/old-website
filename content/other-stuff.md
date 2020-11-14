@@ -25,7 +25,7 @@ also made in python. [github](https://github.com/Beatso/TranslateNonsensePY)
 
 ## pinn
 
-a discord bot so anyone can pin messages, even if they don't have the manage messages permission. [top.gg](https://top.gg/bot/763842999573544981)
+a discord bot so anyone can pin messages, even if they don't have the manage messages permission. [website](/project/pinn)
 
 
 ## custom discord bots
