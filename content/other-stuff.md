@@ -13,7 +13,7 @@ a simple timer to count down until president trump leaves office. [website](/pro
 
 ## redditspyglass
 
-a small website to see how many points a reddit post has, even if it's hidden. [website](https://beatso.github.io/RedditSpyglass/)
+a small website to see how many points a reddit post or comment has, even if it's hidden. [website](/project/redditspyglass)
 
 
 ## translate nonsense

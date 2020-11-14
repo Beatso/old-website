@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	
+    <meta charset="utf-8"></meta>
+	<title>Reddit Spyglass</title>
+    <meta name="theme-color" content="#ff4301"/>
+    <meta name="title" content="Reddit Spyglass"/>
+    <meta name="description" content="See reddit post scores even if they are hidden"/>
+    <meta name="twitter:card" content="summary"/>
+    <meta name="twitter:title" content="Reddit Spyglass"/>
+    <meta name="twitter:description" content="See reddit post scores even if they are hidden"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:description" content="See reddit post scores even if they are hidden"/>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script src="index.js"></script>
+	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+	<link rel="stylesheet" href="main.css">
+
+</head>
+
+<body>
+
+	This is a tool that allows you to see the score of reddit posts or comments, even if the scores are hidden.<br><br>
+    Paste URL of post/comment:<br>
+	<input id="urlInput"><br><br>
+    <button type="submit" onclick="getPoints(0)">Get Points (post)</button>
+    <button type="submit" onclick="getPoints(1)">Get Points (comment)</button><br><br>
+	<span id="score"></span>
+	<span id="aspan"></span>
+	<span id="bspan"></span>
+	<span id="cspan"></span><br>
+	<footer>Made by <a href="/">Beatso</a>. This is not affiliated in any way with Reddit.</footer>
+
+</body>
