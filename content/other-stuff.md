@@ -23,6 +23,10 @@ an npm package to translate text through many languages so it becomes nonsense. 
 also made in python. [github](https://github.com/Beatso/TranslateNonsensePY)
 
 
+## schubert
+
+a configurable discord bot that gives users a role when they join a voice channel. [website](/project/schubert)
+
 ## pinn
 
 a discord bot so anyone can pin messages, even if they don't have the manage messages permission. [website](/project/pinn)
