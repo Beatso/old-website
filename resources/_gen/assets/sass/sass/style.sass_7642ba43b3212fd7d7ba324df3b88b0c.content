@@ -163,8 +163,7 @@ article {
     font-size: 0.9rem;
     font-family: 'Source Code Pro', monospace;
     padding: 0.1rem;
-    border-radius: 3px;
-    border: 1px solid #cccccc; }
+    border-radius: 3px; }
   article img {
     width: 100%;
     max-width: 100%;
