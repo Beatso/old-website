@@ -17,4 +17,6 @@ to clear a voice channel role type `^vcrole clear [voice-channel-id]`. if `voice
 
 [invite to your server](https://discord.com/oauth2/authorize?client_id=777514345461448714&scope=bot&permissions=268504064)  
 [source code](https://github.com/Beatso/Schubert)  
+[top.gg](https://top.gg/bot/777514345461448714)  
+[discord.bots.gg](https://discord.bots.gg/bots/777514345461448714)  
 contact me on discord: beatso#1815  
