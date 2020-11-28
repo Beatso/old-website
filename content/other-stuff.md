@@ -23,6 +23,10 @@ an npm package to translate text through many languages so it becomes nonsense. 
 also made in python. [github](https://github.com/Beatso/TranslateNonsensePY)
 
 
+# picasso
+
+a discord bot to easily scale pixel art in a text channel. [website](/project/picasso)
+
 ## schubert
 
 a configurable discord bot that gives users a role when they join a voice channel. [website](/project/schubert)
@@ -30,7 +34,6 @@ a configurable discord bot that gives users a role when they join a voice channe
 ## pinn
 
 a discord bot so anyone can pin messages, even if they don't have the manage messages permission. [website](/project/pinn)
-
 
 ## custom discord bots
 
