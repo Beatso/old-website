@@ -1,5 +1,5 @@
 ---
-title: "piaasso"
+title: "picasso"
 ---
 
 with this bot, you can easily scale pixel art, so it can be at a visible resolultion from the original image.
