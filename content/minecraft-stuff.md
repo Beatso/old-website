@@ -31,7 +31,7 @@ resource pack info  is a small wiki for bits of info that can be useful when cre
 
 
 ## simple auto clicker
-simple auto clicker is a small program i made that has options to left click at different speeds for mob grinders, written in ahk. [pmc](https://www.planetminecraft.com/mod/simple-auto-clicker/)
+simple auto clicker is a small program i made that has options to left or right click at different speeds for mob grinders, written in autohotkey. [planet minecraft](https://www.planetminecraft.com/mod/simple-auto-clicker/)
 
 
 ## fingermaps
