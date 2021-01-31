@@ -42,5 +42,5 @@ i am the website and bot developer for the fingermaps team, a map making team th
 
 ## vanilla extract
 
-i'm also part of the team at vanilla extract, which is another minecraft resource pack picker. i made the discord bot, i help out with the website, and i am part of the rp support team.
-[website](https://sites.google.com/view/vanillaextract)
+i'm also part of the team at vanilla extract, which is another minecraft resource pack picker. i made the discord bot and i help out with the website.
+[website](https://www.vanilla-extract.tk/)
