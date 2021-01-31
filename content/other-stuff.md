@@ -6,11 +6,6 @@ draft: false
 i make pretty useless stuff. don't take them too seriously. [minecraft stuff](/minecraft-stuff)
 
 
-## trumptimer
-
-a simple timer to count down until president trump leaves office. [website](/project/trumptimer)
-
-
 ## redditspyglass
 
 a small website to see how many points a reddit post or comment has, even if it's hidden. [website](/project/redditspyglass)
