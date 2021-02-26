@@ -13,4 +13,4 @@ if you would not like the bot to work on announcement channels etc., remove the 
 [source code](https://github.com/Beatso/Pinn)  
 [top.gg](https://top.gg/bot/763842999573544981)  
 [discord.bots.gg](https://top.gg/bot/763842999573544981)  
-contact me on discord: beatso#1815  
+contact me on discord: beatso#0024  
